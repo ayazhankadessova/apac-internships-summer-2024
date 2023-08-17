@@ -21,5 +21,6 @@
 - Blackrock - biggest Asset management firm
 
 Video about Alladin : https://www.youtube.com/watch?v=HyZhanswBBw
+BlackRock culture: https://www.youtube.com/watch?v=R9CBCHdK_7k
 
 

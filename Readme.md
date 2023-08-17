@@ -16,4 +16,10 @@
 | ---- | --------------- | --------- | -------- | -------- | -------- |
 | UBS Internship 2023, Monitoring SRE | Zurich, Switzerlan| [Apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=6558#jobDetails=278404_5131) | -------- | -------- | June 2023 |
 
+## Videos
+
+- Blackrock - biggest Asset management firm
+
+Video about Alladin : https://www.youtube.com/watch?v=HyZhanswBBw
+
 

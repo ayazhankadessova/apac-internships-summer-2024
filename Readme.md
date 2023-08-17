@@ -2,9 +2,12 @@
 
 # Dev
 
-| Name | Region/location | Link | Deadline | Progress | Start Date |
-| ---- | --------------- | --------- | -------- | -------- | -------- |
-| Internship 2024, Group Operations & Technology Office, Singapore | Singapore | [Apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=6558#jobDetails=282897_5131) | 31-Oct-2023 | -------- | June 2023 |
+| Name | Region/location | Link | Deadline | Progress | Start Date | Others |
+| ---- | --------------- | --------- | -------- | -------- | -------- | -------- |
+| Internship 2024, Group Operations & Technology Office, Singapore | Singapore | [Apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=6558#jobDetails=282897_5131) | 31-Oct-2023 | -------- | June 2023 | [All programs, Analyst as well](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1762833/xf-10a23d860253/candidate/jobboard/vacancy/1/adv/)
+| 2024 Summer Internship Program - Technology - Aladdin Wealth Tech | Hong Kong | [Apply](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1762833/xf-10a23d860253/candidate/so/pm/1/pl/1/opp/7889-Summer-Internship-Program-APAC/en-GB) | 31-Oct-2023 | -------- | June 2023 | -------- |
+
+
 
 
 ## SRE

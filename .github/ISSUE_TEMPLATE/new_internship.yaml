@@ -76,18 +76,18 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: sponsorship
+    id: category
     attributes:
-      label: Does this internship offer sponsorship?
+      label: What is the category of the internship?
       description: |
         If the posting does not specify, or it does not fall into one of these
         categories, select "Other" then specify in parentheses at the end of
-        the Internship Title what the sponsorship status is
+        the Internship Title what the category is
       multiple: false
       options:
-        - Offers Sponsorship
-        - Does Not Offer Sponsorship
-        - U.S. Citizenship is Required
+        - Software Developer
+        - Software Engineering
+        - DevOps
         - Other
     validations:
       required: true

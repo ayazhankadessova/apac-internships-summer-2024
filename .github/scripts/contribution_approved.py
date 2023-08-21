@@ -37,14 +37,10 @@ def getData(body, is_edit, username):
     if "no response" not in lines[13].lower():
         data["terms"] = [line.strip() for line in lines[13].split(",")]
     if "no response" not in lines[15].lower():
-        data["sponsorship"] = "Other"
-        for option in [
-            "Offers Sponsorship",
-            "Does Not Offer Sponsorship",
-            "U.S. Citizenship is Required",
-        ]:
+        data["category"] = "Other"
+        for option in ["Software Developer", "Software Engineering", "DevOps", "Other"]:
             if option in lines[15]:
-                data["sponsorship"] = option
+                data["category"] = option
     if "none" not in lines[17].lower():
         data["active"] = "yes" in lines[17].lower()
     if is_edit:

@@ -36,12 +36,13 @@ def getDeadlines(listing):
     num = str(len(listing["deadline"])) + " deadlines"
     return f"<details><summary>**{num}**</summary>{deadlines}</details>"
 
-
-def getSponsorship(listing):
-    if listing["sponsorship"] == "Does Not Offer Sponsorship":
-        return " 🛂"
-    elif listing["sponsorship"] == "U.S. Citizenship is Required":
-        return " 🇺🇸"
+def getCategory(listing):
+    if listing["category"] == "Software Engineering":
+        return "👩🏻‍💻🛠"
+    elif listing["category"] == "DevOps":
+        return "📊🎛️"
+    elif listing["category"] == "Software Developer":
+        return "👩🏻‍💻🖥️👩🏽‍💻"
     return ""
 
 
@@ -81,7 +82,7 @@ def create_md_table(listings, offSeason=False):
         location = getLocations(listing)
         deadline = getDeadlines(listing)
         start_date = listing["start_date"]
-        position = listing["title"] + getSponsorship(listing)
+        position = listing["title"] + getCategory(listing)
         terms = ", ".join(listing["terms"])
         link = getLink(listing)
         month = datetime.fromtimestamp(listing["date_posted"]).strftime("%b")
@@ -189,7 +190,7 @@ def checkSchema(listings):
         "locations",
         "company_url",
         "terms",
-        "sponsorship",
+        "category",
         "deadline",
         "start_date",
     ]

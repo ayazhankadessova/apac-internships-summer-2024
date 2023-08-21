@@ -49,9 +49,10 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-| Company | Role | Location | Terms | Application/Link | Date Posted |
-| --- | --- | --- | --- | :---: | :---: |
-| **NPM** | SWE Intern | Remote | Fall 2023 | <a href="https://www.npmjs.com/package/date-fns?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
+| Company | Role | Location | Terms | Application/Link | Deadline | Start Date | Date Posted |
+| --- | --- | --- | --- | :---: | --- | --- | :---: |
+| **Olyver Wyman** | SWE Intern 🛂 | HK | Fall 2023 | <a href="https://mmc.wd1.myworkdayjobs.com/MMC/job/Hong-Kong---Harbour/Oliver-Wyman---Summer-Intern--2024----Hong-Kong_R_237814?source=Linkedin&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | ['Sep, 1'] | Sep, 1 | Aug 21 |
+| **NPM** | SWE Intern | Remote | Fall 2023 | <a href="https://www.npmjs.com/package/date-fns?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | ['Sep, 1'] | Sep, 1 | Aug 21 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 

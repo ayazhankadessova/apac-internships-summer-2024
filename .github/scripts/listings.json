@@ -44,5 +44,28 @@
         "date_posted": 1692630030,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692631354,
+        "url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Hong-Kong---Harbour/Oliver-Wyman---Summer-Intern--2024----Hong-Kong_R_237814?source=Linkedin",
+        "company_name": "Olyver Wyman",
+        "title": "SWE Intern",
+        "locations": [
+            "HK"
+        ],
+        "deadline": [
+            "Sep, 1"
+        ],
+        "start_date": "Sep, 1",
+        "terms": [
+            "Fall 2023"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "ayazhankadessova",
+        "id": "7f2d739c-cda2-4046-a9ab-217506b5b697",
+        "date_posted": 1692631354,
+        "company_url": "",
+        "is_visible": true
     }
 ]

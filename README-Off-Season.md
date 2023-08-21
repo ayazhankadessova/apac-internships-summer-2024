@@ -51,6 +51,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Terms | Application/Link | Date Posted |
 | --- | --- | --- | --- | :---: | :---: |
+| **BetterStack** | SWE Intern | Remote | Fall 2023 | <a href="https://betterstack.com/community/guides/logging/how-to-install-setup-and-use-winston-and-morgan-to-log-node-js-applications/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | **NVIDIA** | Silicon Validation Engineering Intern | Santa Clara, CA | Fall 2023 | 🔒 | Jul 21 |
 | **Zipline** | Embedded Systems Software Intern | San Bruno, CA | Fall 2023 | 🔒 | Jul 19 |
 | **NVIDIA** | Phd Research Intern - AI Algorithm | Remote in USA</br>Santa Clara, CA | Fall 2023 | 🔒 | Jul 19 |

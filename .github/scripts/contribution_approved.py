@@ -17,8 +17,8 @@ def add_https_to_url(url):
 
 def getData(body, is_edit, username):
     data = {}
-    lines = [text.strip("# ") for text in re.split('[\n\r]+', body)]
-    #["Company Name", "_No response_", "Internship Title", "_No response_", "Link to Internship Posting", "example.com/link/to/posting", "Locatio", "San Franciso, CA | Austin, TX | Remote" ,"What term(s) is this internship offered for?", "_No response_"]
+    lines = [text.strip("# ") for text in re.split("[\n\r]+", body)]
+    # ["Company Name", "_No response_", "Internship Title", "_No response_", "Link to Internship Posting", "example.com/link/to/posting", "Locatio", "San Franciso, CA | Austin, TX | Remote" ,"What term(s) is this internship offered for?", "_No response_"]
 
     data["date_updated"] = int(datetime.now().timestamp())
 
@@ -34,7 +34,11 @@ def getData(body, is_edit, username):
         data["terms"] = [line.strip() for line in lines[9].split(",")]
     if "no response" not in lines[11].lower():
         data["sponsorship"] = "Other"
-        for option in ["Offers Sponsorship", "Does Not Offer Sponsorship", "U.S. Citizenship is Required"]:
+        for option in [
+            "Offers Sponsorship",
+            "Does Not Offer Sponsorship",
+            "U.S. Citizenship is Required",
+        ]:
             if option in lines[11]:
                 data["sponsorship"] = option
     if "none" not in lines[13].lower():
@@ -62,17 +66,19 @@ def main():
     # CHECK IF NEW OR OLD INTERNSHIP
 
     new_internship = "new_internship" in [
-        label["name"] for label in event_data["issue"]["labels"]]
+        label["name"] for label in event_data["issue"]["labels"]
+    ]
     edit_internship = "edit_internship" in [
-        label["name"] for label in event_data["issue"]["labels"]]
+        label["name"] for label in event_data["issue"]["labels"]
+    ]
 
     if not new_internship and not edit_internship:
         util.fail("Only new_internship and edit_internship issues can be approved")
 
     # GET DATA FROM ISSUE FORM
 
-    issue_body = event_data['issue']['body']
-    issue_user = event_data['issue']['user']['login']
+    issue_body = event_data["issue"]["body"]
+    issue_user = event_data["issue"]["user"]["login"]
 
     data = getData(issue_body, is_edit=edit_internship, username=issue_user)
 
@@ -97,23 +103,33 @@ def main():
         listings = json.load(f)
 
     listing_to_update = next(
-        (item for item in listings if item["url"] == data["url"]), None)
+        (item for item in listings if item["url"] == data["url"]), None
+    )
     if listing_to_update:
         if new_internship:
             util.fail(
-                "This internship is already in our list. See CONTRIBUTING.md for how to edit a listing")
+                "This internship is already in our list. See CONTRIBUTING.md for how to edit a listing"
+            )
         for key, value in data.items():
             listing_to_update[key] = value
 
-        util.setOutput("commit_message", "updated listing: " +
-                       listing_to_update["title"] + " at " + listing_to_update["company_name"])
+        util.setOutput(
+            "commit_message",
+            "updated listing: "
+            + listing_to_update["title"]
+            + " at "
+            + listing_to_update["company_name"],
+        )
     else:
         if edit_internship:
             util.fail(
-                "We could not find this internship in our list. Please double check you inserted the right url")
+                "We could not find this internship in our list. Please double check you inserted the right url"
+            )
         listings.append(data)
-        util.setOutput("commit_message", "added listing: " +
-                       data["title"] + " at " + data["company_name"])
+        util.setOutput(
+            "commit_message",
+            "added listing: " + data["title"] + " at " + data["company_name"],
+        )
 
     with open(".github/scripts/listings.json", "w") as f:
         f.write(json.dumps(listings, indent=4))

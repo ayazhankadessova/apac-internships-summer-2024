@@ -6,22 +6,28 @@ Collection of Hong Kong and Singapore Tech internships for Summer 2024 & some of
 
 # Contributre
 
-🙏 **Contribute by submitting an [issue](https://github.com/ayazhankadessova/apac-internships-summer-2024/issues)!** 
+🙏 **Contribute by submitting an [issue](https://github.com/ayazhankadessova/apac-internships-summer-2024/issues)!**
 
 **See the contribution guidelines [here](https://github.com/ayazhankadessova/apac-internships-summer-2024/blob/main/CONTRIBUTING.md)!** 🙏
 
 - After the Internship is approved by me, it will be added to the `README.md` automatically.
 
-## The Internships List
+## The List 🚴🏔
 
-| Company                 | Role                                    | Location          |                             Application                             | Simplify Application |
-| ----------------------- | --------------------------------------- | ----------------- | :-----------------------------------------------------------------: | :------------------: |
-| **[UBS](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=6558#jobDetails=282897_5131)** | Internship 2024, Group Operations & Technology Office | Singapore   |<a href="https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=6558#jobDetails=282897_5131"> <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a>   |                      |
-| **[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1762833/xf-10a23d860253/candidate/so/pm/1/pl/1/opp/7889-Summer-Internship-Program-APAC/en-GB)** | BlackRock 2024 Summer Internship Program - Technology - Aladdin Wealth Tech | Hong Kong |<a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1762833/xf-10a23d860253/candidate/so/pm/1/pl/1/opp/7889-Summer-Internship-Program-APAC/en-GB"> <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a>|
-| **[Apple](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1762833/xf-10a23d860253/candidate/so/pm/1/pl/1/opp/7889-Summer-Internship-Program-APAC/en-GB)** | 2024 Apple Internship - Information Systems and Technology     | Singapore | <a href="https://jobs.apple.com/en-us/details/200496215/2024-apple-internship-information-systems-and-technology?team=STDNT"> <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> |                      |
-| **[Morgan Stanley](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16134-2024-Technology-Summer-Analyst-Program-Hong-Kong/en-GB)** | 2024 Technology Summer Analyst Program | Hong Kong | <a href="https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16134-2024-Technology-Summer-Analyst-Program-Hong-Kong/en-GB"> <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> |                      |
+- 🛂 - Does NOT offer Sponsorship
+- 🇺🇸 - Requires U.S. Citizenship
+- 🔒 - Internship application is closed
+
+> **Note**:
+> This README file is for **non-summer internships only**. For summer internships, please see the [Summer 2024 README]().
+
+<!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
+
+| Company | Role | Location | Application/Link | Deadline | Start Date | Date Posted |
+| ------- | ---- | -------- | :--------------: | -------- | ---------- | :---------: |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
+
 [⬆️ Back to Top ⬆️](https://github.com/ayazhankadessova/apac-internships-summer-2024#the-list-)
 
 ## We love our contributors ❤️❤️
@@ -32,4 +38,4 @@ Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-I
   <img src="https://contrib.rocks/image?repo=ayazhankadessova/apac-internships-summer-2024" />
 </a>
 
-*Made with [contrib.rocks](https://contrib.rocks).*
+_Made with [contrib.rocks](https://contrib.rocks)._

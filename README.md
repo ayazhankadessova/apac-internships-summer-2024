@@ -6,9 +6,9 @@ Collection of Hong Kong and Singapore Tech internships for Summer 2024 & some of
 
 # Contributre
 
-🙏 **Contribute by submitting an [issue](https://github.com/ayazhankadessova/apac-internships-summer-2024/issues)! 
+🙏 **Contribute by submitting an [issue](https://github.com/ayazhankadessova/apac-internships-summer-2024/issues)!** 
 
-See the contribution guidelines [here](https://github.com/ayazhankadessova/apac-internships-summer-2024/blob/main/CONTRIBUTING.md)!** 🙏
+**See the contribution guidelines [here](https://github.com/ayazhankadessova/apac-internships-summer-2024/blob/main/CONTRIBUTING.md)!** 🙏
 
 - After the Internship is approved by me, it will be added to the `README.md` automatically.
 

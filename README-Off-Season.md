@@ -18,9 +18,6 @@
 
 | Company | Role | Location | Terms | Application/Link | Deadline | Start Date | Date Posted |
 | --- | --- | --- | --- | :---: | --- | --- | :---: |
-| **BetterStack** | SWE Intern 🛂 | HK | Fall 2023 | <a href="https://betterstack.com/community/guides/logging/how-to-start-logging-with-node-js/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | <details><summary>**4 deadline**</summary>September, 1</br>September, 2</br>September, 3</br>September, 4</details> | September, 1 | Aug 21 |
-| **Olyver Wyman** | SWE Intern 🛂 | HK | Fall 2023 | <a href="https://mmc.wd1.myworkdayjobs.com/MMC/job/Hong-Kong---Harbour/Oliver-Wyman---Summer-Intern--2024----Hong-Kong_R_237814?source=Linkedin&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep, 1 | Sep, 1 | Aug 21 |
-| **NPM** | SWE Intern | Remote | Fall 2023 | <a href="https://www.npmjs.com/package/date-fns?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep, 1 | Sep, 1 | Aug 21 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 

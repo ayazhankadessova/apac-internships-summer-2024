@@ -24,7 +24,9 @@ Collection of Hong Kong and Singapore Tech internships for Summer 2024 & some of
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Deadline | Start Date | Date Posted |
-| ------- | ---- | -------- | :--------------: | -------- | ---------- | :---------: |
+| --- | --- | --- |  :---: | --- | --- | :---: |
+| **UBS** | Internship 2024, Group Operations & Technology Office | Singapore | <a href="https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=6558#jobDetails=282897_5131&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | 31-Oct-2023 | June 2023 | Aug 21 |
+| **Django** | SWE Inter📊🎛️ | Remote | <a href="https://www.w3schools.com/django/django_exam.php?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | September, 1 | September, 1 | Aug 21 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 

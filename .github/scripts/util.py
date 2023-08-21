@@ -33,7 +33,7 @@ def getDeadlines(listing):
     deadlines = "</br>".join(listing["deadline"])
     if len(listing["deadline"]) <= 3:
         return deadlines
-    num = str(len(listing["deadline"])) + " deadline"
+    num = str(len(listing["deadline"])) + " deadlines"
     return f"<details><summary>**{num}**</summary>{deadlines}</details>"
 
 

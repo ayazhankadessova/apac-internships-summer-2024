@@ -51,25 +51,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Terms | Application/Link | Date Posted |
 | --- | --- | --- | --- | :---: | :---: |
-| **BetterStack** | SWE Intern | Remote | Fall 2023 | <a href="https://betterstack.com/community/guides/logging/how-to-install-setup-and-use-winston-and-morgan-to-log-node-js-applications/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
-| **NVIDIA** | Silicon Validation Engineering Intern | Santa Clara, CA | Fall 2023 | 🔒 | Jul 21 |
-| **Zipline** | Embedded Systems Software Intern | San Bruno, CA | Fall 2023 | 🔒 | Jul 19 |
-| **NVIDIA** | Phd Research Intern - AI Algorithm | Remote in USA</br>Santa Clara, CA | Fall 2023 | 🔒 | Jul 19 |
-| **NVIDIA** | System Validation Engineer Intern | Santa Clara, CA | Fall 2023 | 🔒 | Jul 19 |
-| **NVIDIA** | System Validation Engineer Intern | Hillsboro, OR | Fall 2023 | 🔒 | Jul 19 |
-| **[NimbleRx](https://simplify.jobs/c/NimbleRx)** | Software Engineer Intern | Remote | Winter 2024, Spring 2024 | <a href="https://jobs.lever.co/nimblerx/f1b1c7ab-60f4-4051-93ea-d2dbba1cee9c/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1e5b99ff-c71f-4ea9-a511-5dee851785bb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
-| **Kodiak Robotics** | Video Visualization Engineer Internship | Mountain View, CA | Fall 2023 | 🔒 | Jul 19 |
-| **[Certik](https://simplify.jobs/c/Certik)** | SWE Intern | <details><summary>**4 locations**</summary>NYC</br>Seattle, WA</br>SF Bay Area, CA</br>Remote</details> | Fall 2023 | <a href="https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 19 |
-| **Certik** | UI/UX designer intern | <details><summary>**4 locations**</summary>NYC</br>Seattle, WA</br>SF Bay Area, CA</br>Remote</details> | Fall 2023 | 🔒 | Jul 19 |
-| **[Certik](https://simplify.jobs/c/Certik)** | Software Engineer Intern – Internship | <details><summary>**4 locations**</summary>Seattle, WA</br>SF</br>Remote in USA</br>NYC</details> | Fall 2023 | <a href="https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/fd9fc3c7-c24c-4053-b178-1c1d3c40e3ca?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
-| **Autodesk** | Stagiaire – /Intern - Développeur - Euse - De logiciels - Forge - À pourvoir - Software Engineer | Montreal, QC, Canada | Fall 2023 | 🔒 | Jul 19 |
-| **Autodesk** | Stagiaire – /Intern - Développeur - Euse - De logiciels - Forge - À pourvoir - Software Engineer | Remote | Fall 2023 | 🔒 | Jul 19 |
-| **Autodesk** | Intern – Software Developer - Fusion | Montreal, QC, Canada</br>Toronto, ON, Canada | Fall 2023 | 🔒 | Jul 19 |
-| **Squarepoint Capital** | Intern Software Developer | Montreal, QC, Canada | Fall 2023 | 🔒 | Jul 18 |
-| **[Plexus](https://simplify.jobs/c/Plexus)** | Intern – Software Engineer Intern | Raleigh, NC | Fall 2023 | <a href="https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer-Intern---Fall-2023_R022285?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9b77fd7d-ad08-47b0-992f-8e628402fd56?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 18 |
-| **Autodesk** | Software Engineer Intern - Business Process Team | Toronto, ON, Canada | Fall 2023 | 🔒 | Jul 18 |
-| **Autodesk** | Software Engineer Intern - Managed Collaboration Team | Toronto, ON, Canada | Fall 2023 | 🔒 | Jul 18 |
-| **GE Aerospace** | GE Aerospace US Digital Technology Coop | Cincinnati, OH</br>Van Buren Township, MI | Spring 2024 | <a href="https://jobs.gecareers.com/aviation/global/en/job/R3718914/GE-Aerospace-US-Digital-Technology-Coop-Spring-2024?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
+| **NPM** | SWE Intern | Remote | Fall 2023 | <a href="https://www.npmjs.com/package/date-fns?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 

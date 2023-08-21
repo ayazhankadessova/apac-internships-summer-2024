@@ -15,3 +15,7 @@
 - [ ] Remove Sponsorship?
 - [ ] Check for multiple deadlines
 - [ ] Change type for input of internship Deadline to calendar
+
+## 3. Add Data
+
+- [ ] Add Data from `old-readme`

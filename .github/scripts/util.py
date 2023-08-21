@@ -29,6 +29,14 @@ def getLocations(listing):
     return f"<details><summary>**{num}**</summary>{locations}</details>"
 
 
+def getDeadlines(listing):
+    deadlines = "</br>".join(listing["deadline"])
+    if len(listing["deadline"]) <= 3:
+        return deadlines
+    num = str(len(listing["deadline"])) + " deadline"
+    return f"<details><summary>**{num}**</summary>{deadlines}</details>"
+
+
 def getSponsorship(listing):
     if listing["sponsorship"] == "Does Not Offer Sponsorship":
         return " 🛂"
@@ -71,7 +79,7 @@ def create_md_table(listings, offSeason=False):
             else company
         )
         location = getLocations(listing)
-        deadline = listing["deadline"]
+        deadline = getDeadlines(listing)
         start_date = listing["start_date"]
         position = listing["title"] + getSponsorship(listing)
         terms = ", ".join(listing["terms"])

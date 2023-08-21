@@ -2,7 +2,7 @@ name: Contribution Approved
 
 on:
   issues:
-    types: ["labeled"]
+    types: ['labeled']
 
 concurrency: add_internships
 
@@ -18,7 +18,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
-          python-version: "3.9"
+          python-version: '3.9'
 
       - name: execute contribution_approved.py
         id: python_script

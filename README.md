@@ -2,23 +2,15 @@
 
 Collection of Hong Kong and Singapore Tech internships for Summer 2024 & some off-season internships.
 
-💙 Inspired by [SimplyfyJobs repo](https://github.com/SimplifyJobs/Summer2024-Internships/tree/dev).
+💙 Inspired by/Modified from [SimplyfyJobs repo](https://github.com/SimplifyJobs/Summer2024-Internships/tree/dev).
 
 # Contributre
 
-🙏 **Contribute by submitting an [issue](https://github.com/ayazhankadessova/apac-internships-summer-2024/issues)! See the contribution guidelines [here](https://github.com/ayazhankadessova/apac-internships-summer-2024/blob/main/CONTRIBUTING.md)!** 🙏
+🙏 **Contribute by submitting an [issue](https://github.com/ayazhankadessova/apac-internships-summer-2024/issues)!** 
 
-- I will review the issue and add it to the `README`.
+**See the contribution guidelines [here](https://github.com/ayazhankadessova/apac-internships-summer-2024/blob/main/CONTRIBUTING.md)!** 🙏
 
-# 🙋‍♀️Help me automate with Github Workflow
-
-[SimplyfyJobs repo](https://github.com/SimplifyJobs/Summer2024-Internships/tree/dev) have shared the scripts that run every time issue gets approved, if you want to help me figure out how the process works and make it work with other fields, drop an email to <a href="mailto:kadessovaayazhan@gmail.com">kadessovaayazhan@gmail.com</a>.
-
-## What I want it to look Like
-
-I want to have different fields, such as [here](https://github.com/ayazhankadessova/apac-internships-summer-2024/blob/main/old-readme.md).
-
-Most importantly, want to add the Progress field, so that anybody can fork it and track their progress.
+- After the Internship is approved by me, it will be added to the `README.md` automatically.
 
 ## The Internships List
 
@@ -28,3 +20,16 @@ Most importantly, want to add the Progress field, so that anybody can fork it an
 | **[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1762833/xf-10a23d860253/candidate/so/pm/1/pl/1/opp/7889-Summer-Internship-Program-APAC/en-GB)** | BlackRock 2024 Summer Internship Program - Technology - Aladdin Wealth Tech | Hong Kong |<a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1762833/xf-10a23d860253/candidate/so/pm/1/pl/1/opp/7889-Summer-Internship-Program-APAC/en-GB"> <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a>|
 | **[Apple](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1762833/xf-10a23d860253/candidate/so/pm/1/pl/1/opp/7889-Summer-Internship-Program-APAC/en-GB)** | 2024 Apple Internship - Information Systems and Technology     | Singapore | <a href="https://jobs.apple.com/en-us/details/200496215/2024-apple-internship-information-systems-and-technology?team=STDNT"> <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> |                      |
 | **[Morgan Stanley](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16134-2024-Technology-Summer-Analyst-Program-Hong-Kong/en-GB)** | 2024 Technology Summer Analyst Program | Hong Kong | <a href="https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16134-2024-Technology-Summer-Analyst-Program-Hong-Kong/en-GB"> <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"></a> |                      |
+
+<!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
+[⬆️ Back to Top ⬆️](https://github.com/ayazhankadessova/apac-internships-summer-2024#the-list-)
+
+## We love our contributors ❤️❤️
+
+Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)!
+
+<a href="https://github.com/ayazhankadessova/apac-internships-summer-2024/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ayazhankadessova/apac-internships-summer-2024" />
+</a>
+
+*Made with [contrib.rocks](https://contrib.rocks).*

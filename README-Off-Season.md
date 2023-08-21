@@ -17,7 +17,8 @@
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Terms | Application/Link | Deadline | Start Date | Date Posted |
-| ------- | ---- | -------- | ----- | :--------------: | -------- | ---------- | :---------: |
+| --- | --- | --- | --- | :---: | --- | --- | :---: |
+| **Apple** | 2024 Apple Internship - Information Systems and Technology | Singapore | Winter 2024, Spring 2024, Summer 2024 | <a href="https://jobs.apple.com/en-sg/details/200496215/2024-apple-internship-information-systems-and-technology?team=STDNT&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | N/A | Feb to July 2024 | Aug 21 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 

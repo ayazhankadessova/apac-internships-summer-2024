@@ -31,22 +31,26 @@ def getData(body, is_edit, username):
     if "no response" not in lines[7].lower():
         data["locations"] = [line.strip() for line in lines[7].split("|")]
     if "no response" not in lines[9].lower():
-        data["terms"] = [line.strip() for line in lines[9].split(",")]
+        data["deadline"] = [line.strip() for line in lines[9].split("|")]
     if "no response" not in lines[11].lower():
+        data["start_date"] = lines[11]
+    if "no response" not in lines[13].lower():
+        data["terms"] = [line.strip() for line in lines[13].split(",")]
+    if "no response" not in lines[15].lower():
         data["sponsorship"] = "Other"
         for option in [
             "Offers Sponsorship",
             "Does Not Offer Sponsorship",
             "U.S. Citizenship is Required",
         ]:
-            if option in lines[11]:
+            if option in lines[15]:
                 data["sponsorship"] = option
-    if "none" not in lines[13].lower():
-        data["active"] = "yes" in lines[13].lower()
+    if "none" not in lines[17].lower():
+        data["active"] = "yes" in lines[17].lower()
     if is_edit:
-        data["is_visible"] = "[x]" not in lines[15].lower()
+        data["is_visible"] = "[x]" not in lines[17].lower()
 
-    email = lines[17 if is_edit else 15].lower()
+    email = lines[19 if is_edit else 17].lower()
     if "no response" not in email:
         util.setOutput("commit_email", email)
         util.setOutput("commit_username", username)

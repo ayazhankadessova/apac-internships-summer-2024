@@ -921,5 +921,24 @@
         "date_posted": 1692625608,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692626707,
+        "url": "https://betterstack.com/community/guides/logging/how-to-install-setup-and-use-winston-and-morgan-to-log-node-js-applications/",
+        "company_name": "BetterStack",
+        "title": "SWE Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Fall 2023"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ayazhankadessova",
+        "id": "cc9312c0-aac6-45fa-b527-ec11192b36d6",
+        "date_posted": 1692626707,
+        "company_url": "",
+        "is_visible": true
     }
 ]

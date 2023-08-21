@@ -1,29 +1,3 @@
-# APAC (mostly HK) Summer 2024 Internships 🌍🌏
-
-# Dev
-
-## Ibanks, Hedge Funds
-
-
-| Name | Region/location | Link | Deadline | Progress | Start Date | Others |
-| ---- | --------------- | --------- | -------- | -------- | -------- | -------- |
-| Internship 2024, Group Operations & Technology Office, Singapore | Singapore | [Apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=6558#jobDetails=282897_5131) | 31-Oct-2023 | -------- | June 2023 | ----- |
-| BlackRock 2024 Summer Internship Program - Technology - Aladdin Wealth Tech | Hong Kong | [Apply](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1762833/xf-10a23d860253/candidate/so/pm/1/pl/1/opp/7889-Summer-Internship-Program-APAC/en-GB) | idk | [Test Submitted](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1762833/xf-10a23d860253/candidate/eform/3219415/save_page) | June 2023 | [All programs, Analyst as well](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1762833/xf-10a23d860253/candidate/jobboard/vacancy/1/adv/) |
-| 2024 Apple Internship - Information Systems and Technology|Singapore | [Apply](https://jobs.apple.com/en-us/search?location=united-states-USA) | idk | [Resume Submitted](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1762833/xf-10a23d860253/candidate/eform/3219415/save_page) | June 2023 | [All programs, Analyst as well](https://jobs.apple.com/en-us/search?location=united-states-USA) |
-| 2024 Technology Summer Analyst Program (Hong Kong) at Morgan Stanley| Hong Kong | [Apply](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16134-2024-Technology-Summer-Analyst-Program-Hong-Kong/en-GB) | •Application deadline #1: August 20, 2023 </br> •Application deadline #2: September 17, 2023 </br> •Application deadline #3: October 15, 2023 </br> •Applications will be closed at 23:55 HKT | [Resume Submitted](https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16134-2024-Technology-Summer-Analyst-Program-Hong-Kong/en-GB) | June 2023 | [All Tech](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/jobboard/vacancy/1/adv/?ftq=%222024+Technology+Summer+Analyst+Program%22) |
-
-
-# SRE
-
-| Name | Region/location | Link | Deadline | Progress | Start Date |
-| ---- | --------------- | --------- | -------- | -------- | -------- |
-| UBS Internship 2023, Monitoring SRE | Zurich, Switzerlan| [Apply](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=6558#jobDetails=278404_5131) | -------- | -------- | June 2023 |
-
-## Videos
-
-- Blackrock - biggest Asset management firm
-
-Video about Alladin : https://www.youtube.com/watch?v=HyZhanswBBw
-BlackRock culture: https://www.youtube.com/watch?v=R9CBCHdK_7k
-
-
+| Company                 | Role                                    | Location          |                             Application                             | Simplify Application |
+| ----------------------- | --------------------------------------- | ----------------- | :-----------------------------------------------------------------: | :------------------: |
+| **[Example Company]()** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> |                      |

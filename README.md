@@ -6,19 +6,11 @@ Collection of Hong Kong and Singapore Tech internships for Summer 2024 & some of
 
 # Contributre
 
-🙏 **Contribute by submitting an [issue](https://github.com/ayazhankadessova/apac-internships-summer-2024/issues)! See the contribution guidelines [here](https://github.com/ayazhankadessova/apac-internships-summer-2024/blob/main/CONTRIBUTING.md)!** 🙏
+🙏 **Contribute by submitting an [issue](https://github.com/ayazhankadessova/apac-internships-summer-2024/issues)! 
 
-- I will review the issue and add it to the `README`.
+See the contribution guidelines [here](https://github.com/ayazhankadessova/apac-internships-summer-2024/blob/main/CONTRIBUTING.md)!** 🙏
 
-# 🙋‍♀️Help me automate with Github Workflow
-
-[SimplyfyJobs repo](https://github.com/SimplifyJobs/Summer2024-Internships/tree/dev) have shared the scripts that run every time issue gets approved, if you want to help me figure out how the process works and make it work with other fields, drop an email to <a href="mailto:kadessovaayazhan@gmail.com">kadessovaayazhan@gmail.com</a>.
-
-## What I want it to look Like
-
-I want to have different fields, such as [here](https://github.com/ayazhankadessova/apac-internships-summer-2024/blob/main/old-readme.md).
-
-Most importantly, want to add the Progress field, so that anybody can fork it and track their progress.
+- After the Internship is approved by me, it will be added to the `README.md` automatically.
 
 ## The Internships List
 

@@ -67,5 +67,31 @@
         "date_posted": 1692631354,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1692631735,
+        "url": "https://betterstack.com/community/guides/logging/how-to-start-logging-with-node-js/",
+        "company_name": "BetterStack",
+        "title": "SWE Intern",
+        "locations": [
+            "HK"
+        ],
+        "deadline": [
+            "September, 1",
+            "September, 2",
+            "September, 3",
+            "September, 4"
+        ],
+        "start_date": "September, 1",
+        "terms": [
+            "Fall 2023"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "ayazhankadessova",
+        "id": "39858cc8-6a9b-4f49-bf08-612cb4e8768d",
+        "date_posted": 1692631735,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -37,7 +37,7 @@ body:
     attributes:
       label: Location
       description: |
-      Where is the internship located?
+        Where is the internship located?
         Please separate locations with a pipe "|" if there are multiple options. 
         Include Remote if remote option available.
       placeholder: ex. San Franciso, CA | Austin, TX | Remote

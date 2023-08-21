@@ -1,7 +1,8 @@
 # apac-internships-summer-2024
 
 Collection of Hong Kong and Singapore Tech internships for Summer 2024 & some off-season internships.
-Inspired by [SimplyfyJobs repo](https://github.com/SimplifyJobs/Summer2024-Internships/tree/dev)
+
+💙 Inspired by [SimplyfyJobs repo](https://github.com/SimplifyJobs/Summer2024-Internships/tree/dev).
 
 # Contributre
 

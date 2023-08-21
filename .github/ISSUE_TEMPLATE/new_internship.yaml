@@ -48,20 +48,20 @@ body:
       description: |
         When is the Application Deadline? 
         Please separate deadline with a pipe "|" if there are multiple deadline/rounds. 
-        Leave black if unknown.
+        Add "N/A" if unknown.
       placeholder: September, 1 | June, 1
     validations:
-      required: false
+      required: true
   - type: input
     id: start_date
     attributes:
       label: Internship Start Date
       description: |
         When is the Internship Start Date? 
-        Leave black if unknown.
+        Add "N/A" if unknown.
       placeholder: September, 1
     validations:
-      required: false
+      required: true
   - type: dropdown
     id: terms
     attributes:

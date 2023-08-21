@@ -38,9 +38,20 @@ body:
         Where is the internship located? 
         Please separate locations with a pipe "|" if there are multiple options. 
         Include Remote if remote option available.
-      placeholder: San Franciso, CA | Austin, TX | Remote
+      placeholder: Singapore, Singapore | Kowloon, Hong Kong | Remote
     validations:
       required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: Application Deadline
+      description: |
+        When is the Application Deadline? 
+        Please separate deadline with a pipe "|" if there are multiple deadline/rounds. 
+        Leave black if unknown.
+      placeholder: September, 1 | June, 1
+    validations:
+      required: false
   - type: dropdown
     id: terms
     attributes:

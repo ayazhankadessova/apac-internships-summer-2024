@@ -52,6 +52,16 @@ body:
       placeholder: September, 1 | June, 1
     validations:
       required: false
+  - type: input
+    id: start_date
+    attributes:
+      label: Internship Start Date
+      description: |
+        When is the Internship Start Date? 
+        Leave black if unknown.
+      placeholder: September, 1 | June, 1
+    validations:
+      required: false
   - type: dropdown
     id: terms
     attributes:

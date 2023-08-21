@@ -1,7 +1,7 @@
 name: Edit Internship
 description: Edit an internship on our list
-title: "Editing Internship"
-labels: ["edit_internship"]
+title: 'Editing Internship'
+labels: ['edit_internship']
 body:
   - type: markdown
     attributes:
@@ -37,10 +37,31 @@ body:
     attributes:
       label: Location
       description: |
-        Where is the internship located?
+        Where is the internship located? 
         Please separate locations with a pipe "|" if there are multiple options. 
         Include Remote if remote option available.
-      placeholder: ex. San Franciso, CA | Austin, TX | Remote
+      placeholder: Singapore, Singapore | Kowloon, Hong Kong | Remote
+    validations:
+      required: false
+  - type: input
+    id: deadline
+    attributes:
+      label: Application Deadline
+      description: |
+        When is the Application Deadline? 
+        Please separate deadline with a pipe "|" if there are multiple deadline/rounds. 
+        Add "N/A" if unknown.
+      placeholder: September, 1 | June, 1
+    validations:
+      required: false
+  - type: input
+    id: start_date
+    attributes:
+      label: Internship Start Date
+      description: |
+        When is the Internship Start Date? 
+        Add "N/A" if unknown.
+      placeholder: September, 1
     validations:
       required: false
   - type: dropdown
@@ -57,18 +78,18 @@ body:
     validations:
       required: false
   - type: dropdown
-    id: sponsorship
+    id: category
     attributes:
-      label: Does this internship offer sponsorship?
+      label: What is the category of the internship?
       description: |
         If the posting does not specify, or it does not fall into one of these
         categories, select "Other" then specify in parentheses at the end of
-        the Internship Title what the sponsorship status is
+        the Internship Title what the category is
       multiple: false
       options:
-        - Offers Sponsorship
-        - Does Not Offer Sponsorship
-        - U.S. Citizenship is Required
+        - Software Developer
+        - Software Engineering
+        - DevOps
         - Other
     validations:
       required: false
@@ -78,17 +99,10 @@ body:
       label: Is this internship currently accepting applications?
       multiple: false
       options:
-        - "Yes"
-        - "No"
+        - 'Yes'
+        - 'No'
     validations:
-      required: false
-  - type: checkboxes
-    id: is_visible
-    attributes:
-      label: Remove this internship from the list?
-      description: Only check this box if this internship is fake, does not fit the theme of the repo, or is offensive.
-      options:
-        - label: "Yes, remove this internship"
+      required: true
   - type: input
     id: email
     attributes:
@@ -109,4 +123,3 @@ body:
       placeholder: This internship is no longer accepting applications...
     validations:
       required: false
-      

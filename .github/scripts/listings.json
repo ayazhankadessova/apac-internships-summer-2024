@@ -1,0 +1,19 @@
+[
+  {
+    "date_updated": 1692625608,
+    "url": "https://www.w3schools.com/django/django_exam.php",
+    "company_name": "Django",
+    "title": "SWE Inter",
+    "locations": ["Remote"],
+    "deadline": ["September, 1"],
+    "start_date": "September, 1",
+    "terms": ["Summer 2024"],
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "source": "ayazhankadessova",
+    "id": "39a2689b-51fb-4dbb-a1d0-0503624b9e0b",
+    "date_posted": 1692625608,
+    "company_url": "",
+    "is_visible": true
+  }
+]

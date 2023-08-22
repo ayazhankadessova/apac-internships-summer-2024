@@ -48,7 +48,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692666174,
+        "date_updated": 1692666476,
         "url": "https://morganstanley.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/16134-2024-Technology-Summer-Analyst-Program-Hong-Kong/en-GB",
         "company_name": "Morgan Stanley",
         "title": "2024 Technology Summer Analyst Program",
@@ -56,15 +56,15 @@
             "Hong Kong"
         ],
         "deadline": [
-            "August 20, 2023",
-            "September 17, 2023",
-            "October 15, 2023 23:55"
+            "August, 20",
+            "September, 17",
+            "October, 15, 2023"
         ],
         "start_date": "June 2023",
         "terms": [
             "Summer 2024"
         ],
-        "category": "Software Developer",
+        "category": "Other",
         "active": true,
         "source": "ayazhankadessova",
         "id": "62843f09-8eaf-4772-a648-302801a75194",

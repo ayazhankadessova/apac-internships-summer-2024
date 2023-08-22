@@ -10,14 +10,12 @@ We ask that the internships that you add meet some requirements. Specifically, y
   - product management
   - quant
   - any other tech-related internships
-- be located in the United States, Canada, or remote.
+- be located in the APAC (mostly Hong Kong or Singapore) or remote.
 - not already exist in the internship list.
 
 ## Adding an Internship
 
 Cool! You're ready to add an internship to the list. Follow these steps:
-
-https://github.com/ayazhankadessova/apac-internships-summer-2024/issues
 
 1. First create a new issue [here](https://github.com/ayazhankadessova/apac-internships-summer-2024/issues).
 2. Select the **New Internship** issue template.
@@ -41,15 +39,15 @@ To edit an internship (changing name, setting as inactive, removing, etc.), foll
 
 ## Automatic README.md Updates
 
-A script will automatically add new contributions as well as new internships found by [Simplify](https://simplify.jobs) to the appropriate README. The row will look something like this:
+A script will automatically add new contributions to the appropriate README. The row will look something like this:
 
 ```md
-| Company                 | Role                                    | Location          |                             Application                             | Simplify Application |
-| ----------------------- | --------------------------------------- | ----------------- | :-----------------------------------------------------------------: | :------------------: |
-| **[Example Company]()** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> |                      |
+| Company             | Role           | Location  |                                                                                                           Application/Link                                                                                                            | Deadline | Start Date       | Date Posted |
+| ------------------- | -------------- | --------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------- | ---------------- | :---------: | --- |
+| **Example Company** | SWE Internship | Singapore | <a href="https://jobs.apple.com/en-sg/details/200496215/2024-apple-internship-information-systems-and-technology?team=STDNT&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | N/A      | Feb to July 2024 |   Aug 21    |     |
 ```
 
 When rendered, it will look like:
-| Company | Role | Location | Application | Simplify Application |
-| --- | --- | --- | :---: | :---: |
-| **[Example Company]()** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> | |
+| Company | Role | Location | Application/Link | Deadline | Start Date | Date Posted |
+| --- | --- | --- | :---: | --- | --- | :---: |
+| **Example Company** | SWE Internship | Singapore | <a href="https://jobs.apple.com/en-sg/details/200496215/2024-apple-internship-information-systems-and-technology?team=STDNT&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | N/A | Feb to July 2024 | Aug 21 |

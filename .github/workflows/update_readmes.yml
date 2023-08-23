@@ -6,10 +6,9 @@ on:
       - '.github/scripts/listings.json'
   workflow_dispatch:
 
-concurrency: 
+concurrency:
   group: listings_update
   cancel-in-progress: true
-
 
 jobs:
   run-python-script:
@@ -22,7 +21,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
-          python-version: "3.9"
+          python-version: '3.9'
 
       - name: execute update_readmes.py
         id: python_script
@@ -42,7 +41,7 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: dev
+          branch: main
 
       - name: Problem With Action
         run: echo "There was an error with the github action. ${{ steps.python_script.outputs.error_message }}"
